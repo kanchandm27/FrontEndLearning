@@ -1,1 +1,7 @@
-test test test
+To Push From Local repo to Remote Repo
+Steps:
+1. git add filename.extension (for that particular file)
+  git add -A (for all latest changes)
+  git add * (for all changes )
+2. git commit -m "message for commit"
+3. git push
