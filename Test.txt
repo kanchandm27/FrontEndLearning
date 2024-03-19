@@ -1,3 +1,7 @@
+git clone - to clone repo from remote to our local repo
+
+Git pull - is used to pull all latest changes
+
 To Push From Local repo to Remote Repo
 Steps:
 1. git add filename.extension (for that particular file)
@@ -5,3 +9,7 @@ Steps:
   git add * (for all changes )
 2. git commit -m "message for commit"
 3. git push
+
+git log - gives the log 
+
+git status - to know the status of our project whether its up to date or need to pull or push
